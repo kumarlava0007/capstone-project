@@ -1,47 +1,50 @@
 .firstSection-main {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 100vw;
-    background-color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  background-color: whitesmoke;
 }
 
 .firstSection-main-one {
-    width: 80%;
-    height: 50vh;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
+  width: 80%;
+  height: 50vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .firstSection-main-two {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
-.firstSection-main-two .cardsOne, .firstSection-main-two .cardsTwo {
-    width: 85%;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
+.firstSection-main-two .cardsOne,
+.firstSection-main-two .cardsTwo {
+  width: 85%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
-.firstSection-main-two .cardsOne .cards, .firstSection-main-two .cardsTwo .cards{
-    width: 320px;
-    height: 200px;
-    background-color: white;
-    border-radius: 10px;
-    margin: 20px;
-    /* box-shadow: 2px 2px 5px 2px royalblue */
-    box-shadow: 7px 7px 8px rgba(100, 100, 100, 0.5);
+.firstSection-main-two .cardsOne .cards,
+.firstSection-main-two .cardsTwo .cards {
+  width: 320px;
+  height: 200px;
+  background-color: white;
+  border-radius: 10px;
+  margin: 20px;
+  /* box-shadow: 2px 2px 5px 2px royalblue */
+  /* box-shadow: 7px 7px 8px rgba(100, 100, 100, 0.5); */
+  box-shadow: 0 0 6px -3px;
 }
 
 .words {
-    padding: 10px;
-    color: #4060bf;
+  padding: 10px;
+  color: #4060bf;
 }
