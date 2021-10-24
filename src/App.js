@@ -1,11 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
+import NavComponent from './components/NavComponent';
+import FirstSectionComponent from './components/landingPageComponent/FirstSectionComponent';
 
 function App() {
   return (
-    <div className="App">
-       <h2>Hi All</h2>
-    </div>
+    <Router>
+      < NavComponent />
+      < FirstSectionComponent />
+    </Router>
   );
 }
 
