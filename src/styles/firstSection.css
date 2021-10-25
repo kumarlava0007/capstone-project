@@ -40,6 +40,7 @@
   border-radius: 10px;
   margin: 20px;
   /* box-shadow: 2px 2px 5px 2px royalblue */
+<<<<<<< HEAD
   /* box-shadow: 5px 5px 8px rgba(100, 100, 100, 0.5); */
   box-shadow: 0 0 6px -3px;
   transition: transform 0.2s;
@@ -62,6 +63,12 @@
 .firstSection-main-one-second h2{
   margin-left: 50px;
 }
+=======
+  /* box-shadow: 7px 7px 8px rgba(100, 100, 100, 0.5); */
+  box-shadow: 0 0 6px -3px;
+}
+
+>>>>>>> main
 .words {
   padding: 10px;
   color: #4060bf;
