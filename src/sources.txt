@@ -1,0 +1,5 @@
+colors
+
+main color - #4060bf;
+
+document.title="AASAAN PREMIUM"; 
