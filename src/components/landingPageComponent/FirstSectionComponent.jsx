@@ -30,6 +30,8 @@ export default function FirstSectionComponent() {
                     <img src="https://static.pbcdn.in/cdn/images/home-v1/pb-promise-new.png" alt="photo" />
 >>>>>>> main
                     <h2>A commitment <br /> to our customers</h2>
+                    <h2>random text</h2>
+                    <h2>jgaihsuifhdhufhui</h2>
                 </div>
             </div>
             <div className="firstSection-main-two">
